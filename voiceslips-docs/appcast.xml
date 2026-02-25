@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/philipdaquin/voiceslip-releases/main/voiceslips-docs/VoiceSlip-1.0.1.zip" length="5087839" type="application/octet-stream" sparkle:edSignature="OfLGr7FEB03ujVmLSj4dFPPcNqQtn3BaX7Xug7r8rwXLsCosh+8YwqQ67vvn7JMZCr4nYsWI/lwdJQUGM7nqBg=="/>
+            <enclosure url="https://github.com/philipdaquin/voiceslip-releases/releases/download/v1.0.1/VoiceSlip-1.0.1.zip" length="5087839" type="application/octet-stream" sparkle:edSignature="OfLGr7FEB03ujVmLSj4dFPPcNqQtn3BaX7Xug7r8rwXLsCosh+8YwqQ67vvn7JMZCr4nYsWI/lwdJQUGM7nqBg=="/>
         </item>
     </channel>
 </rss>

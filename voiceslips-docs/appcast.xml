@@ -3,6 +3,26 @@
   <channel>
     <title>VoiceSlip</title>
     <item>
+      <title>VoiceSlip 1.1.9</title>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>1.1.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown">### Added
+
+### Changed
+
+### Deprecated
+
+### Removed
+
+### Fixed
+
+- Release archives use the Developer ID signing team and API-backed provisioning updates so Keychain Sharing entitlements are included in notarized builds.
+
+### Security</description>
+      <enclosure url="https://github.com/philipdaquin/voiceslip-releases/releases/download/v1.1.9/VoiceSlip-1.1.9.zip" length="17986391" type="application/octet-stream" sparkle:edSignature="r/H07bd6Kvap67Bg+NhwcAZbwGcvQFTeNGoy+el45P0HjrjrPBQDuBaUQPEbhsXdfgVe1Vqw2ITh+tGrwa+tBA==" />
+    </item>
+    <item>
       <title>VoiceSlip 1.1.7</title>
       <sparkle:version>14</sparkle:version>
       <sparkle:shortVersionString>1.1.7</sparkle:shortVersionString>

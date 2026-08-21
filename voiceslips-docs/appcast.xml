@@ -3,6 +3,28 @@
   <channel>
     <title>VoiceSlip</title>
     <item>
+      <title>VoiceSlip 1.1.10</title>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>1.1.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown">### Added
+
+### Changed
+
+### Deprecated
+
+### Removed
+
+### Fixed
+
+- Release archives explicitly select the matching macOS provisioning profile when signing Keychain Sharing entitlements.
+- DMG packaging preserves the signed and notarized app bundle when assembling release installers.
+- Release DMGs use a non-conflicting installer volume label so the signed app bundle can be copied successfully.
+
+### Security</description>
+      <enclosure url="https://github.com/philipdaquin/voiceslip-releases/releases/download/v1.1.10/VoiceSlip-1.1.10.zip" length="17986875" type="application/octet-stream" sparkle:edSignature="z3twfjZiHHb0bnxUumY3PqDPEXKLXHedsPFvHZeu1n8M6pe9A6sbnLOQXg+khV0ULZTp2YSaFtFyJInviS7sAA==" />
+    </item>
+    <item>
       <title>VoiceSlip 1.1.9</title>
       <sparkle:version>16</sparkle:version>
       <sparkle:shortVersionString>1.1.9</sparkle:shortVersionString>

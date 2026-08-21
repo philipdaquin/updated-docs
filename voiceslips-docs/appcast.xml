@@ -3,6 +3,26 @@
   <channel>
     <title>VoiceSlip</title>
     <item>
+      <title>VoiceSlip 1.1.7</title>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>1.1.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown">### Added
+
+### Changed
+
+### Deprecated
+
+### Removed
+
+### Fixed
+
+- Restored Google Sign-In session persistence for Developer ID macOS releases.
+
+### Security</description>
+      <enclosure url="https://github.com/philipdaquin/voiceslip-releases/releases/download/v1.1.7/VoiceSlip-1.1.7.zip" length="17968798" type="application/octet-stream" sparkle:edSignature="aB+wiD587uVRnwrN2GPM4MTHDlt2UXhkIfAQSqbpvfHJ15+7dnx1JVqgSAgVxbycRlUDuxqk4usY/yqebNbuBA==" />
+    </item>
+    <item>
       <title>VoiceSlip 1.1.6</title>
       <sparkle:version>13</sparkle:version>
       <sparkle:shortVersionString>1.1.6</sparkle:shortVersionString>
